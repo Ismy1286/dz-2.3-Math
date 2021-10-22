@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CEF3CC6A27227A0A0052532F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF3CC6927227A0A0052532F /* main.swift */; };
+		CEF3CC7127227A510052532F /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF3CC7027227A510052532F /* Math.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		CEF3CC6627227A0A0052532F /* dz-2.3-Math */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "dz-2.3-Math"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF3CC6927227A0A0052532F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CEF3CC7027227A510052532F /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				CEF3CC6927227A0A0052532F /* main.swift */,
+				CEF3CC7027227A510052532F /* Math.swift */,
 			);
 			path = "dz-2.3-Math";
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEF3CC6A27227A0A0052532F /* main.swift in Sources */,
+				CEF3CC7127227A510052532F /* Math.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
